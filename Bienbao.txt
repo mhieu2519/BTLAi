@@ -1,0 +1,43 @@
+Tốc độ tối đa cho phép:20
+Tốc độ tối đa cho phép:30
+Tốc độ tối đa cho phép:50
+Tốc độ tối đa cho phép:60
+Tốc độ tối đa cho phép:70
+Tốc độ tối đa cho phép:80
+Hết tốc độ tối đa cho phép:80
+Tốc độ tối đa cho phép:100
+Tốc độ tối đa cho phép:120
+Cấm ô tô vượt
+Cấm ô tô tải vượt
+Giao nhau với đường không ưu tiên
+Bắt đầu đường ưu tiên
+Giao nhau với đường ưu tiên
+Dừng lại
+Đường cấm
+Cấm ô tô tải
+Cấm đi ngược chiều
+Nguy hiểm khác
+Chô ngoặt nguy hiểm vòng bên trái
+Chô ngoặt nguy hiểm vòng bên phải
+Nhiều chỗ ngoặt nguy hiểm liên tiếp
+Đường không bằng phẳng
+Đường trơn
+Đường hẹp bên phải
+Công trường
+Giao nhau có tín hiệu đèn
+Đường người đi bộ bắt ngang
+Trẻ em
+Đường người đi xe đạp cắt ngang
+Đường trơn có băng tuyết
+Thú rừng vượt qua đường
+Hết tất cả
+Các xe chỉ được rẽ phải
+Các xe chỉ được rẽ trái
+Các xe chỉ được đi thẳng
+Các xe chỉ được đi thẳng và rẽ phải
+Các xe chỉ được đi thẳng và rẽ trái
+Hướng trái đi vòng sang phải
+Hướng phải đi vòng sang trái
+Nơi giao nhau chạy theo vòng xuyến
+Hết cấm ô tô vượt
+Hết cấm ô tô tải vượt
